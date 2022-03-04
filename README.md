@@ -2,7 +2,7 @@
 22.03.03\
 Prototype1\
 FollowPlayer.cs 카메라 움직임 구현\
-PlayerController.cs 캐릭터 움직임 구현\
+PlayerControllerX.cs 캐릭터 움직임 구현\
 PropellerMove.cs 프로펠러 움직임 구현\
 22.03.04\
 Protoytype2\
