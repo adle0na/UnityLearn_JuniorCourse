@@ -28,3 +28,8 @@ Enemy.cs 적 움직임, 기능 코드\
 PlayerController4.cs 플레이어 기능 코드\
 RotateCamera.cs 카메라 조작\
 SpawnManager4.cs 오브젝트 스포너
+Challenge4\
+Enemy4X.cs 플레이어 추적, 난이도별 속도증가\
+PlayerController4X.cs 플레이어 조작 및 파워업, 부스터기능 \
+RotateCamera4X.cs 카메라 움직임 조작\
+SpawnManager4X.cs 오브젝트 스폰관리 및 난이도 설정
