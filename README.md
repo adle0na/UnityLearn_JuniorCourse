@@ -32,4 +32,7 @@ Challenge4\
 Enemy4X.cs 플레이어 추적, 난이도별 속도증가\
 PlayerController4X.cs 플레이어 조작 및 파워업, 부스터기능 \
 RotateCamera4X.cs 카메라 움직임 조작\
-SpawnManager4X.cs 오브젝트 스폰관리 및 난이도 설정
+SpawnManager4X.cs 오브젝트 스폰관리 및 난이도 설정\
+Prototype5\
+GameManager5.cs 게임실행, 점수값, UI 관리\
+Target5.cs 오브젝트 기능 관리
