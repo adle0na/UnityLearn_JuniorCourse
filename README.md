@@ -36,4 +36,4 @@ SpawnManager4X.cs 오브젝트 스폰관리 및 난이도 설정\
 Prototype5\
 GameManager5.cs 게임실행, 점수값, UI 관리\
 Target5.cs 오브젝트 기능 관리\
-DifficultyButton5.cs 난이도 관리\
+DifficultyButton5.cs 난이도 관리
